@@ -1,0 +1,218 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+#a0, #a1, #a2, #a3, #a4, #a5, #a6, #a7, #a8, #a9, #a10{
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  #a0{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(50, 152, 199);
+    margin-left: 60px;
+    margin-top: 15px;
+  }
+#a1{
+  border: 0px;
+  background-color: white;
+  margin-left: 110px;
+}
+#trangchu{
+  text-decoration: none;
+  color: black;
+}
+#trangchu:hover{
+  color: rgb(50, 152, 199);
+}
+#a5:hover{
+  color: rgb(50, 152, 199);
+}
+#a6{
+  margin-top: 15px;
+}
+#a7{
+  border: 0px;
+  background-color: white;
+}
+#vip{
+  text-decoration: none;
+  color: black;
+}
+#vip:hover{
+  color: rgb(225, 168, 24);
+}
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropbtn{
+    border: 0px;
+    background-color: white;
+  }
+  .dropbtn:hover{
+    color: rgb(50, 152, 199);
+  }
+  header{
+    margin-top: -9px;
+    margin-left: -10px;
+    padding-right: 0px;
+    border: solid 1px;
+    height: 50px;
+    width: 1480px;
+    border-color: rgb(223, 223, 223);
+  }
+  #a9{
+    border: 0px;
+    background-color: white;
+  }
+  #dangky{
+    text-decoration: none;
+    color: black;
+  }
+  #dangky:hover{
+    color: rgb(50, 152, 199);
+  }
+  #a10{
+    margin-top: 15px;
+    border: 0px;
+    border-radius: 20px;
+    height: 30px;
+    margin-left: 20px;
+    background-image: linear-gradient(to bottom right,rgb(50, 152, 199),rgb(226, 226, 226));
+  }
+  #dangnhap{
+    text-decoration: none;
+    color: white;
+  }
+  #dangnhap:hover{
+    color: black;
+  }
+input[type="search"] {
+    padding-left: 40px;
+}
+input{
+  box-shadow: inset 0.1px 0.1px 0px darkgray;
+  border: #f1f1f1;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  height: 30px;
+}
+.z1{
+  border: 0px;
+  border-radius: 10px;
+  height: 30px;
+}
+.z1:hover{
+  background-color: rgb(50, 152, 199);
+  color: white;
+}
+article{
+  margin-top: 0px;
+  border: solid 1px;
+  border-color: rgb(223, 223, 223);
+  height: 1000px;
+  width: 1480px;
+  margin-left: -10px;
+}
+aside{
+  border: solid 1px;
+  border-color: rgb(223, 223, 223);
+  margin-top: -181px;
+  margin-left: 1200px;
+  height: 1000px;
+}
+.n1:hover{
+  color: rgb(50, 152, 199);
+}
+.n2:hover{
+  color: rgb(50, 152, 199);
+}
+.n3:hover{
+  color: rgb(50, 152, 199);
+}
+.n4:hover{
+  color: rgb(50, 152, 199);
+}
+.n5:hover{
+  color: rgb(50, 152, 199);
+}
+.n6:hover{
+  color: rgb(50, 152, 199);
+}
+.n7:hover{
+  color: rgb(50, 152, 199);
+}
+.n8:hover{
+  color: rgb(50, 152, 199);
+}
+.n9:hover{
+  color: rgb(50, 152, 199);
+}
+.n10:hover{
+  color: rgb(50, 152, 199);
+}
+.n11:hover{
+  color: rgb(50, 152, 199);
+}
+.n12:hover{
+  color: rgb(50, 152, 199);
+}
+.n13:hover{
+  color: rgb(50, 152, 199);
+}
+.n14:hover{
+  color: rgb(50, 152, 199);
+}
+.n15:hover{
+  color: rgb(50, 152, 199);
+}
+.n16:hover{
+  color: rgb(50, 152, 199);
+}
+#b1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 35px;
+  color: rgb(50, 152, 199);
+}
+.b2 a{
+  margin-left: 40px;
+  margin-top: 20px;
+  color: black;
+  display: block;
+  text-decoration: none;
+}
+.b2 p{
+  margin-top: 1px;
+  margin-left: 60px;
+  font-size: 10px;
+  color: rgb(109, 108, 108);
+}
+audio{
+  height: 30px;
+  display: block;
+  margin-top: 30px;
+}
